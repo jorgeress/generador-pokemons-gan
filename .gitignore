@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# El dataset se baja de Kaggle, no se versiona.
+pokemon/
+entrenamiento_pokemon_10000/
+checkpoints/
+
+# Salidas de generar.py
+muestras*.png

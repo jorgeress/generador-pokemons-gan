@@ -1,0 +1,3 @@
+# Probado con estas versiones. TensorFlow trae Keras dentro.
+tensorflow>=2.15
+matplotlib>=3.7
