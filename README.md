@@ -1,4 +1,4 @@
-# Generador de Pokémon con una GAN
+# PokeGAN
 
 Una DCGAN entrenada desde cero durante 10.000 épocas para generar sprites de
 Pokémon de 64x64 que no existen. Empezó como proyecto final de una asignatura
